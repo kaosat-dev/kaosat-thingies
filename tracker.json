@@ -17,16 +17,15 @@
          "downloadUrl":"https://github.com/kaosat-dev/3DR-Tiki/zipball/master",
          "authors":[
             {
-               "name":"",
-               "url":"",
+               "name":"Mark 'kaosat-dev' Moissette",
+               "url":"kaosat.net",
                "email":""
             }
          ],
          "licenses":[
-            ""
+            "AGPL"
          ],
          "thumbnailUrls":[
-            "thumbnails/..."
          ],
          "subject":[
             ""
@@ -38,7 +37,7 @@
             ""
          ],
          "tags":[
-            ""
+            "reprap","delta","3DR","fun"
          ],
          "billOfMaterials":[
             {
